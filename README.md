@@ -5,11 +5,11 @@
 
 <h4 align="center"> - 🔭 I’m currently working on **PrefCards**
 
-- 🌱 I’m currently learning **JavaScript**
+🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me **otic.angeleemae@gmail.com**
+📫 How to reach me **otic.angeleemae@gmail.com**
 
-- ⚡ Fun fact **I say what is on my mind!**</h4>
+⚡ Fun fact **I say what is on my mind!**</h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
