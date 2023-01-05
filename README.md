@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=itsangee&label=Profile%20views&color=0e75b6&style=flat" alt="itsangee" /> </p>
 
-<h4 align="center"> - 🔭 I’m currently working on **PrefCards**
+<h4 align="center"> 🔭 I’m currently working on **PrefCards**
 
 🌱 I’m currently learning **JavaScript**
 
