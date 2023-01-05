@@ -5,8 +5,6 @@
 
 <h4 align="center"> 🔭 I’m currently working on **PrefCards**
 
-🌱 I’m currently learning **JavaScript**
-
 📫 How to reach me **otic.angeleemae@gmail.com**
 
 ⚡ Fun fact **I say what is on my mind!**</h4>
