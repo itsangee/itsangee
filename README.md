@@ -1,4 +1,4 @@
-<h1 align="center">Hey! 👋 <br> I'm Angee</h1>
+<h1 align="center">Hey! 👋 <br> I'm Angee ☺️ </h1>
 <h3 align="center">Recently finished Le Wagon, BootCamp</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsangee&label=Profile%20views&color=0e75b6&style=flat" alt="itsangee" /> </p>
