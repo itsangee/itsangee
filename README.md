@@ -1,8 +1,6 @@
 <h1 align="center">Hey! 👋 <br> I'm Angee ☺️ </h1>
 <h3 align="center">Recently finished Le Wagon, BootCamp</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=itsangee&label=Profile%20views&color=0e75b6&style=flat" alt="itsangee" /> </p>
-
 <h4 align="center"> 🔭 I’m currently working on **PrefCards**
 
 📫 How to reach me **otic.angeleemae@gmail.com**
