@@ -1,8 +1,6 @@
 <h1 align="center">Hey! 👋 <br> I'm Angee ☺️ </h1>
 <h3 align="center">Recently finished Le Wagon, BootCamp</h3>
 
-<h4 align="center"> 🔭 I’m currently working on **PrefCards**
-
 📫 How to reach me **otic.angeleemae@gmail.com**
 
 ⚡ Fun fact **I say what is on my mind!**</h4>
